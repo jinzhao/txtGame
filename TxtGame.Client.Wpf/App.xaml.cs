@@ -12,5 +12,6 @@ namespace TxtGame.Client.Wpf
     /// </summary>
     public partial class App : Application
     {
+        public App() { }
     }
 }
