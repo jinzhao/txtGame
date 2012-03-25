@@ -1,3 +1,6 @@
 
 /_ReSharper.TxtGame
 */bin/*
+*/obj
+TxtGame.Client.Wpf\obj\x86\Debug\DesignTimeResolveAssemblyReferences.cache
+*.cache
