@@ -13,5 +13,6 @@ namespace TxtGame.Client.Wpf
     public partial class App : Application
     {
         public App() { }
+        //jinzhongbao
     }
 }
